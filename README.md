@@ -1,6 +1,6 @@
-# ALX Simple Shell Team Project
+# ALX Simple Shell Team Projec
 
-> This is an ALX collaboration project on Shell. We were tasked to create a simple shell that mimics the Bash shell. Our shell shall be called **hsh**
+> This is an ALX collaboration project on Shell.  Our shell shall be called **hsh**
 
 ## Project was completed using
 
@@ -10,15 +10,17 @@
 
 ## General Requirement for project
 
-- All files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
-- All files should end with a new line
+- Allowed editors: vi, vim, emacs
+- All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+- All your files should end with a new line
 - A README.md file, at the root of the folder of the project is mandatory
-- Use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
-- Shell should not have any memory leaks
+- Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
+- Your shell should not have any memory leaks
 - No more than 5 functions per file
-- All header files should be include guarded
-- Write a README with the description of the project
-
+- All your header files should be include guarded
+- Use system calls only when you need to (why?)
+- Write a README with the description of your project
+- You should have an AUTHORS file at the root of your repository, listing all individuals having contributed content to the repository.
 
 ## Description ##
 
