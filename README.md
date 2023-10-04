@@ -309,18 +309,11 @@ $
 ```
 
 
-### What we learned:
-* How a shell works and finds commands
-* Creating, forking and working with processes
-* Executing a program from another program
-* Handling dynamic memory allocation in a large program
-* Pair programming and team work
-* Building a test suite to check our own code
 
 
 ## Authors ##
 
-**Yonas Getaneh <yonasleykun8@gmail.com>
-**Busari Busari <mudicnoni@gmail.com>
+*Yonas Getaneh <yonasleykun8@gmail.com>
+*Busari Busari <mudicnoni@gmail.com>
 
 
