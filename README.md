@@ -1,4 +1,4 @@
-# ALX Simple Shell Team Project
+# ALX Simple Shell Team 
 
 > This is an ALX collaboration project on Shell. Our shell shall be called **hsh**
 
